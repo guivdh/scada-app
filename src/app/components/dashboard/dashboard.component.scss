@@ -1,0 +1,14 @@
+.dashboard-container {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  & > div {
+    border-radius: 15px;
+    overflow: hidden;
+  }
+
+  button {
+    margin-top: 50px;
+    width: 100px;
+  }
+}
