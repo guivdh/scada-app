@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
 
-![](src/assets/Screenshot 2024-04-28 at 22-28-23 ScadaApp.png)
+![](https://github.com/guivdh/scada-app/blob/master/src/assets/Screenshot%202024-04-28%20at%2022-28-23%20ScadaApp.png)
 
 ## Development server
 
